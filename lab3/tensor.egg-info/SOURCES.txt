@@ -1,0 +1,14 @@
+CEloss.cu
+README.txt
+Tensor.cu
+TensorBindings.cpp
+activations.cu
+conv.cu
+fully_connected.cu
+max_pooling.cu
+setup.py
+tensor.egg-info/PKG-INFO
+tensor.egg-info/SOURCES.txt
+tensor.egg-info/dependency_links.txt
+tensor.egg-info/requires.txt
+tensor.egg-info/top_level.txt

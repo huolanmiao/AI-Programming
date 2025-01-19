@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: tensor
+Version: 0.0.1
+Summary: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: license :: OSI Approved :: MIT License
+Requires-Python: >=3.8
+Requires-Dist: torch
+
+UNKNOWN
